@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I commit to `main` and fork on the first date.
+I fork on the first date. And commit to `main`
