@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Wait! Come back!
+
+I commit to `main` on the first date.
