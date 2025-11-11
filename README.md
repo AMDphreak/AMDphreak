@@ -1,4 +1,4 @@
-## Don't look at me!
+## Hey, babe
 
 <!--
 **AMDphreak/AMDphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Wait! Come back!
 
 I commit to `main` on the first date.
