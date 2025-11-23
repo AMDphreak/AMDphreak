@@ -26,4 +26,12 @@ Rules for programmers:
   - Use Julia, not Python or C++, for scientific and numerical computing. Python is slow and has stupid design choices in the language
     that make it difficult to rectify one library's design assumptions against another library that you may be using. Julia is clean and fast.
 
-- Do not use Python. See above. Python is
+- Do not use Python. See above. Python was originally made to "bridge the gap between C and shell scripting" (Guido van Rossum, creator of Python).
+  It accomplished this but introduced several poor design choices: everything is an object, including each number. The number 1 is an object.
+  Python cannot be compiled normally. It has to bundle the Python runtime with the code using `pyinstaller`. Python's runtime is massive, so
+  this results in poor loading performance, on top of the slow execution performance. For applications that need a clean syntax like Python
+  that will interact with the system (userland tools), you should use D lang.
+
+- Use Rust or D lang. Ideally, we would be rewriting all code in D lang, however Rust has captured the public attention. Certain features from
+  Rust's toolchain are excellent ideas that need to be incorporated into D lang, however D lang already has `safe D` which is a
+  similar idea for enforcing memory-safe practices in critical system-level tooling.
