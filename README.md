@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - [Julia and D lang vs Java](<https://gemini.google.com/share/b0964e893d07>)
   - _Do not use Java._ Their ecosystem of tools is confusing, even if the language is organized. One of their language features
     (annotations) is heavily abused by frameworks, which makes it feel horrible to use.
-  - _Use Julia, not Python or C++, for scientific and numerical computing._ Python is slow and has stupid design choices in the language
+  - **Use Julia, not Python or C++, for scientific and numerical computing.** Python is slow and has stupid design choices in the language
     that make it difficult to rectify one library's design assumptions against another library that you may be using. Julia is clean and fast.
 
 - _Do not use Python._ See above. Python was originally made to "bridge the gap between C and shell scripting" (Guido van Rossum, creator of Python).
