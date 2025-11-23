@@ -24,6 +24,9 @@ Here are some ideas to get you started:
   as well as automatic memory management via a garbage collector, which can be disabled if you really need to remove the
   GC for performance or memory size reasons in embedded systems like a firmware.
   C vs D: <https://gemini.google.com/share/bdba47f19258>
+- **Or use Rust.** Ideally, we would be rewriting all core operating system userland code in D lang,
+  however Rust has captured the public attention. Certain features from Rust's toolchain are excellent ideas that need to be incorporated
+  into D lang, however D lang already has `safe D` which is a similar idea for enforcing memory-safe practices in critical system-level tooling.
 
 **Scientific and numerical computing**
 - [Julia and D lang vs Java](<https://gemini.google.com/share/b0964e893d07>)
@@ -36,9 +39,6 @@ Here are some ideas to get you started:
 **Application programming**
 - _Do not use C++._ It is the worst programming language of all time: <https://youtu.be/7fGB-hjc2Gc?si=6qM7eUBS5t8fV-Np>
   C++ vs D: <https://gemini.google.com/share/51f07fad7499>
-- **Use Rust or D lang for systems programming.** Ideally, we would be rewriting all core operating system userland code in D lang,
-  however Rust has captured the public attention. Certain features from Rust's toolchain are excellent ideas that need to be incorporated
-  into D lang, however D lang already has `safe D` which is a similar idea for enforcing memory-safe practices in critical system-level tooling.
 
 **Scripting**
 - _Do not use Python._ See above. Python was originally made to "bridge the gap between C and shell scripting" (Guido van Rossum, creator of Python).
