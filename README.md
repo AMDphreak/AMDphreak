@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, babe, I fork on the first date and commit to `main`.
+> Hey, babe, I fork on the first date and commit to `main`.
 
 **Rules for programmers:**
 
