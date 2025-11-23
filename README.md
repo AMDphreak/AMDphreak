@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 ## Rules for programmers
 
 **Systems programming**
-- **Use D instead of C for systems programming.** C has no namespaces to contain variable names or module system to provide a namespace.
+- *Do not use C for systems programming.* C has no namespaces to contain variable names or module system to provide a namespace.
   C requires header files, which are annoying. C's common libraries are full of horribly-named constants and functions.
+- **Use D instead of C.** D improves on C by introducing advanced data types and higher-level abstraction of functions,
+  as well as automatic memory management via a garbage collector, which can be disabled if you really need to remove the
+  GC for performance or memory size reasons in embedded systems like a firmware.
   C vs D: <https://gemini.google.com/share/bdba47f19258>
 
 **Scientific and numerical computing**
