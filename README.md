@@ -1,5 +1,3 @@
-## Hey, babe
-
 <!--
 **AMDphreak/AMDphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I fork on the first date and commit to `main`.
+Hey, babe, I fork on the first date and commit to `main`.
 
 Rules for programmers:
 - Do not use C++. It is the worst programming language of all time: https://youtu.be/7fGB-hjc2Gc?si=6qM7eUBS5t8fV-Np
