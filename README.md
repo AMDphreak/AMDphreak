@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - Developer Roadmap: <https://github.com/kamranahmedse/developer-roadmap>
 - System Design Primer: <https://github.com/donnemartin/system-design-primer>
+- Build your own {x}: <https://github.com/codecrafters-io/build-your-own-x>
 
 ## Rules for programmers
 
