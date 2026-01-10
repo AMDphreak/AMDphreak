@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ## Developer Learning material
 
-Developer Roadmap: <https://github.com/kamranahmedse/developer-roadmap>
+- Developer Roadmap: <https://github.com/kamranahmedse/developer-roadmap>
+- System Design Primer: <https://github.com/donnemartin/system-design-primer>
 
 ## Rules for programmers
 
