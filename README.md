@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 
 > Hey, babe, I fork on the first date and commit to `main`.
 
+## Developer Learning material
+
+Developer Roadmap: <https://github.com/kamranahmedse/developer-roadmap>
+
 ## Rules for programmers
 
 **Systems programming**
