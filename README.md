@@ -30,14 +30,14 @@
 
 **Application programming**
 - _Do not use C++._ It is the worst programming language of all time: <https://youtu.be/7fGB-hjc2Gc?si=6qM7eUBS5t8fV-Np>
-  C++ vs D: <https://gemini.google.com/share/51f07fad7499>
+  Use D lang instead. C++ vs D: <https://gemini.google.com/share/51f07fad7499>
 
-**Scripting**
+**System Scripting**
 - _Do not use Python._ See above. Python was originally made to "bridge the gap between C and shell scripting" (Guido van Rossum, creator of Python).
   It accomplished this but introduced several poor design choices: everything is an object, including each number. The number 1 is an object.
   Python cannot be compiled normally. It has to bundle the Python runtime with the code using `pyinstaller`. Python's runtime is massive, so
   this results in poor loading performance, on top of the slow execution performance.
-- **Use D lang** for applications that need a clean syntax like Python that will interact with the system (userland tools).
+- **Use D lang** for applications that need a clean syntax like Python and high-level abstractions/facilities while also interactiong with the system (userland tools).
 
 **Mathematical Specification**
 Programming is math. Learn Lisp and then Haskell if you want to develop programs in a highly performant language that is based on Lambda calculus.
