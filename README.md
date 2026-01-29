@@ -10,7 +10,7 @@
 ## Rules for programmers
 
 **Systems programming**
-- *Do not use C for systems programming.* C has no namespaces to contain variable names or module system to provide a namespace.
+- *Do not use C for systems programming.* All variables in C exist in a global namespace, which means all libraries have to know what other libraries use for variable names. C has no namespaces or module system.
   C requires header files, which are annoying. C's common libraries are full of horribly-named constants and functions.
 - **Use D instead of C.** D improves on C by introducing advanced data types and higher-level abstraction of functions,
   as well as automatic memory management via a garbage collector, which can be disabled if you really need to remove the
