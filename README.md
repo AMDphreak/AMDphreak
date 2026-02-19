@@ -1,6 +1,8 @@
 
 > Hey, babe, I fork on the first date and commit to `main`.
 
+See [GitHub Metrics](./#gitHub-metrics)
+
 ## Developer Learning material
 
 - Developer Roadmap: <https://github.com/kamranahmedse/developer-roadmap>
@@ -42,3 +44,7 @@
 **Mathematical Specification**
 Programming is math. Learn Lisp and then Haskell if you want to develop programs in a highly performant language that is based on Lambda calculus.
 - Haskell examples: https://lotz84.github.io/haskellbyexample/
+
+## GitHub Metrics
+
+![Metrics](https://metrics.lecoq.io/AMDphreak?template=classic&base.indepth=true&isocalendar=1&pagespeed=1&introduction=1&projects=1&gists=1&activity=1&notable=1&repositories=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories=false&repositories.pinned=1&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&projects=false&projects.limit=4&projects.descriptions=false&introduction=false&introduction.title=true&pagespeed=false&pagespeed.url=ryanjohnson.dev&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=America%2FChicago&config.display=columns)
