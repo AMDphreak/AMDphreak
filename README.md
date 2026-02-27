@@ -39,7 +39,7 @@ See [GitHub Metrics](./#gitHub-metrics)
   It accomplished this but introduced several poor design choices: everything is an object, including each number. The number 1 is an object.
   Python cannot be compiled normally. It has to bundle the Python runtime with the code using `pyinstaller`. Python's runtime is massive, so
   this results in poor loading performance, on top of the slow execution performance.
-- **Use D lang** for applications that need a clean syntax like Python and high-level abstractions/facilities while also interactiong with the system (userland tools).
+- **Use D lang** for applications that need a clean syntax like Python and high-level abstractions/facilities while also interacting with the system (userland tools).
 
 **Mathematical Specification**
 Programming is math. Learn Lisp and then Haskell if you want to develop programs in a highly performant language that is based on Lambda calculus.
