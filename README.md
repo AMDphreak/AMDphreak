@@ -1,6 +1,6 @@
 ## Organizations
 
-GitHub orgs I administer:
+GitHub orgs I administrate:
 
 - [antora-supplemental](https://github.com/antora-supplemental)
 - [Cook-Systems-Team-Blue-Feb-2021-Ryan](https://github.com/Cook-Systems-Team-Blue-Feb-2021-Ryan)
@@ -68,7 +68,4 @@ GitHub orgs I administer:
   - Haskell examples: https://lotz84.github.io/haskellbyexample/
 </details>
 
-<details>
-  <summary><sub>&hellip;</sub></summary>
-  Hey, babe&mdash;I fork on the first date and commit to <code>main</code>.
-</details>
+Hey, babe&mdash;I fork on the first date and commit to <code>main</code>.
