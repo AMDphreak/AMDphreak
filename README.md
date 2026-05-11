@@ -1,6 +1,14 @@
+# AMDphreak
+
+Software developer. I care about **clear docs**, **typed systems**, and **browser-heavy** apps (maps, dashboards, long-lived sessions) where performance is as much architecture as hot loops.
+
+Architecture notes for dense web UIs—**Bonsai** vs **Leptos** vs **vibe.d**, client/server split for auth and databases, creative-stack interop, and why some integrated suites *feel* faster than others—are in **Dev-Centr** docs: [UI-heavy web applications](https://docs.devcentr.org/home/latest/architecture/ui-heavy-web-apps.html) ([source](https://github.com/dev-centr/docs/blob/HEAD/docs/modules/ROOT/pages/architecture/ui-heavy-web-apps.adoc)).
+
+---
+
 ## Organizations
 
-GitHub orgs I administrate:
+GitHub orgs I own:
 
 - [antora-supplemental](https://github.com/antora-supplemental)
 - [Cook-Systems-Team-Blue-Feb-2021-Ryan](https://github.com/Cook-Systems-Team-Blue-Feb-2021-Ryan)
@@ -11,61 +19,52 @@ GitHub orgs I administrate:
 - [Linx-Photos](https://github.com/Linx-Photos)
 - [openshellorg](https://github.com/openshellorg)
 
-## Developer Learning material
+---
 
-- Developer Roadmap: <https://github.com/kamranahmedse/developer-roadmap>
-- System Design Primer: <https://github.com/donnemartin/system-design-primer>
-- Build your own {x}: <https://github.com/codecrafters-io/build-your-own-x>
+## Curated learning
 
-## Rules for programmers
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+
+---
+
+## Language preferences (short)
+
+Opinions are defaults, not absolutes—they keep my own projects consistent.
 
 <details>
-  <summary>Systems programming</summary>
+<summary>Systems programming</summary>
 
-  - *Do not use C for systems programming.* All variables in C exist in a global namespace, which means all libraries have to know what other libraries use for variable names.      C has no namespaces or module system.
-    C requires header files, which are annoying. C's common libraries are full of horribly-named constants and functions.
-  - **Use D instead of C.** D improves on C by introducing advanced data types and higher-level abstraction of functions,
-    as well as automatic memory management via a garbage collector, which can be disabled if you really need to remove the
-    GC for performance or memory size reasons in embedded systems like a firmware.
-    C vs D: <https://gemini.google.com/share/bdba47f19258>
-  - **Or use Rust.** Ideally, we would be rewriting all core operating system userland code in D lang,
-    however Rust has captured the public attention. Certain features from Rust's toolchain are excellent ideas that need to be incorporated
-    into D lang, however D lang already has `safe D` which is a similar idea for enforcing memory-safe practices in critical system-level tooling.
+- Prefer **D** (or **Rust**) over **C** for new systems work: modules and safer patterns beat C’s global namespace and header friction.
+- [C vs D (Gemini share)](https://gemini.google.com/share/bdba47f19258)
+
 </details>
 
 <details>
-  <summary>Scientific and numerical computing</summary>
-  
-  - [Julia and D lang vs Java](https://gemini.google.com/share/b0964e893d07)
-    - _Do not use Java._ Their ecosystem of tools is confusing, even if the language is organized. One of their language features
-      (annotations) is heavily abused by frameworks, which makes it feel horrible to use.
-    - **Use Julia, not Python, for scientific and numerical computing, data science, and artificial intelligence.** Python is slow and has
-      stupid design choices in the language that make it difficult to rectify one library's design assumptions against another library that
-      you may be using. Julia is clean and fast.
+<summary>Scientific and numerical computing</summary>
+
+- Prefer **Julia** over **Python** for serious numerical / ML work when you control the stack; [Julia and D vs Java (Gemini share)](https://gemini.google.com/share/b0964e893d07).
+- I avoid leaning on **Java** for that space when the bloat and fragmentation in the ecosystem outweighs the gain.
+
 </details>
 
 <details>
-  <summary>Application programming</summary>
+<summary>Application and systems scripting</summary>
 
-  - _Do not use C++._ It is the worst programming language of all time: <https://youtu.be/7fGB-hjc2Gc?si=6qM7eUBS5t8fV-Np>
-    Use D lang instead. C++ vs D: <https://gemini.google.com/share/51f07fad7499>
+- Prefer **D** over **C++** for application code; [C++ vs D (Gemini share)](https://gemini.google.com/share/51f07fad7499). [C++ rant (YouTube)](https://youtu.be/7fGB-hjc2Gc?si=6qM7eUBS5t8fV-Np) — same thesis, louder volume.
+- For scripting-shaped tools that still talk to the OS, **D** is my default over **Python** when I want readable syntax without dragging a huge runtime (see scientific section for why Python is a weak default for me).
+
 </details>
 
 <details>
-  <summary>System Scripting</summary>
-  
-  - _Do not use Python._ See above. Python was originally made to "bridge the gap between C and shell scripting" (Guido van Rossum, creator of Python).
-    It accomplished this but introduced several poor design choices: everything is an object, including each number. The number 1 is an object.
-    Python cannot be compiled normally. It has to bundle the Python runtime with the code using `pyinstaller`. Python's runtime is massive, so
-    this results in poor loading performance, on top of the slow execution performance.
-  - **Use D lang** for applications that need a clean syntax like Python and high-level abstractions/facilities while also interacting with the system (userland tools).
+<summary>Math-heavy / functional style</summary>
+
+Programming is math. **Lisp** and **Haskell** are the usual on-ramps if you want lambda-calculus-shaped thinking in performant languages.
+- [Haskell by Example](https://lotz84.github.io/haskellbyexample/)
+
 </details>
 
-<details>
-  <summary>Mathematical Specification</summary>
+---
 
-  Programming is math. Learn Lisp and then Haskell if you want to develop programs in a highly performant language that is based on Lambda calculus.
-  - Haskell examples: https://lotz84.github.io/haskellbyexample/
-</details>
-
-Hey, babe&mdash;I fork on the first date and commit to <code>main</code>.
+I fork on the first date and commit to `main`.
