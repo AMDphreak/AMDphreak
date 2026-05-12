@@ -1,7 +1,5 @@
 # AMDphreak
 
-Software developer. I care about **clear docs**, **typed systems**, and **browser-heavy** apps (maps, dashboards, long-lived sessions) where performance is as much architecture as hot loops.
-
 Architecture notes for dense web UIs—**Bonsai** vs **Leptos** vs **vibe.d**, client/server split for auth and databases, creative-stack interop, and why some integrated suites *feel* faster than others—are in **Dev-Centr** docs: [UI-heavy web applications](https://docs.devcentr.org/home/latest/architecture/ui-heavy-web-apps.html) ([source](https://github.com/dev-centr/docs/blob/HEAD/docs/modules/ROOT/pages/architecture/ui-heavy-web-apps.adoc)).
 
 ---
