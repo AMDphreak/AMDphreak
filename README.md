@@ -1,11 +1,46 @@
-# AMDphreak
+<a id="readme-top"></a>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
+<div align="center">
+  <h1>AMDphreak</h1>
+  <p>Systems architect and full-stack developer building an ecosystem of composable tools focused on developer experience (DevX) and high-performance, cross-platform computing.</p>
+  <p>
+    <a href="https://ryanjohnson.dev">Website</a>
+    ·
+    <a href="https://docs.devcentr.org">Dev-Centr docs</a>
+    ·
+    <a href="https://github.com/AMDphreak/AMDphreak/issues">Report Bug</a>
+  </p>
+</div>
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#focus">Focus</a></li>
+    <li><a href="#stack">Stack</a></li>
+    <li><a href="#ai-coding-desk">AI Coding Desk</a></li>
+    <li><a href="#writing">Writing</a></li>
+    <li><a href="#organizations">Organizations</a></li>
+    <li><a href="#curated-learning">Curated learning</a></li>
+    <li><a href="#language-preferences-short">Language preferences</a></li>
+    <li><a href="#github-snapshot">GitHub Snapshot</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+## About The Project
 
 Systems architect and full-stack developer building an ecosystem of composable tools focused on developer experience (DevX) and high-performance, cross-platform computing.
 
 [![Website](https://img.shields.io/badge/Website-ryanjohnson.dev-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white)](https://ryanjohnson.dev)
 [![Dev-Centr](https://img.shields.io/badge/Dev--Centr-docs-6366f1?style=flat-square&logo=readthedocs&logoColor=white)](https://docs.devcentr.org)
 
----
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Focus
 
@@ -14,7 +49,7 @@ Systems architect and full-stack developer building an ecosystem of composable t
 - Software reliability as a product concern—not an afterthought
 - [Inspirations](https://ryanjohnson.dev/inspirations)
 
----
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Stack
 
@@ -27,7 +62,7 @@ Systems architect and full-stack developer building an ecosystem of composable t
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
 ![Antora](https://img.shields.io/badge/Antora-docs-E40046?style=flat-square&logo=asciidoctor&logoColor=white)
 
----
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## AI Coding Desk
 
@@ -38,13 +73,13 @@ Systems architect and full-stack developer building an ecosystem of composable t
 - **Hermes** — on the radar to try; no active use case yet
 - **T3 Code** — on the radar to try; would run through Cursor CLI if it sticks
 
----
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Writing
 
 Architecture notes for dense web UIs—**Bonsai** vs **Leptos** vs **vibe.d**, client/server split for auth and databases, creative-stack interop, and why some integrated suites *feel* faster than others—are in **Dev-Centr** docs: [UI-heavy web applications](https://docs.devcentr.org/home/latest/architecture/ui-heavy-web-apps.html) ([source](https://github.com/dev-centr/docs/blob/HEAD/docs/modules/ROOT/pages/architecture/ui-heavy-web-apps.adoc)).
 
----
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Organizations
 
@@ -58,7 +93,7 @@ GitHub orgs I own:
 - [Linx-Photos](https://github.com/Linx-Photos)
 - [openshellorg](https://github.com/openshellorg)
 
----
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Curated learning
 
@@ -66,7 +101,7 @@ GitHub orgs I own:
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 
----
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Language preferences (short)
 
@@ -75,7 +110,7 @@ Opinions are defaults, not absolutes—they keep my own projects consistent.
 <details>
 <summary>Systems programming</summary>
 
-- Prefer **D** (or **Rust**) over **C** for new systems work: modules and safer patterns beat C’s global namespace and header friction.
+- Prefer **D** (or **Rust**) over **C** for new systems work: modules and safer patterns beat C's global namespace and header friction.
 - [C vs D (Gemini share)](https://gemini.google.com/share/bdba47f19258)
 
 </details>
@@ -104,13 +139,33 @@ Programming is math. **Lisp** and **Haskell** are the usual on-ramps if you want
 
 </details>
 
----
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## GitHub Snapshot
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AMDphreak&theme=radical&hide_border=true)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMDphreak&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/AMDphreak)
 
----
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 I fork on the first date and commit to `main`.
+
+## Contact
+
+Ryan Johnson — [@amdphreak](https://twitter.com/amdphreak)
+
+Project Link: [https://github.com/AMDphreak/AMDphreak](https://github.com/AMDphreak/AMDphreak)
+
+Site: [https://ryanjohnson.dev](https://ryanjohnson.dev)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/AMDphreak/AMDphreak.svg?style=for-the-badge
+[contributors-url]: https://github.com/AMDphreak/AMDphreak/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/AMDphreak/AMDphreak.svg?style=for-the-badge
+[forks-url]: https://github.com/AMDphreak/AMDphreak/network/members
+[stars-shield]: https://img.shields.io/github/stars/AMDphreak/AMDphreak.svg?style=for-the-badge
+[stars-url]: https://github.com/AMDphreak/AMDphreak/stargazers
+[issues-shield]: https://img.shields.io/github/issues/AMDphreak/AMDphreak.svg?style=for-the-badge
+[issues-url]: https://github.com/AMDphreak/AMDphreak/issues
