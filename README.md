@@ -1,21 +1,21 @@
 <a id="readme-top"></a>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 <div align="center">
+  <a href="https://github.com/AMDphreak/AMDphreak/graphs/contributors"><img src="https://img.shields.io/github/contributors/AMDphreak/AMDphreak.svg?style=for-the-badge" alt="Contributors"></a>
+  <a href="https://github.com/AMDphreak/AMDphreak/network/members"><img src="https://img.shields.io/github/forks/AMDphreak/AMDphreak.svg?style=for-the-badge" alt="Forks"></a>
+  <a href="https://github.com/AMDphreak/AMDphreak/stargazers"><img src="https://img.shields.io/github/stars/AMDphreak/AMDphreak.svg?style=for-the-badge" alt="Stargazers"></a>
+  <a href="https://github.com/AMDphreak/AMDphreak/issues"><img src="https://img.shields.io/github/issues/AMDphreak/AMDphreak.svg?style=for-the-badge" alt="Issues"></a>
   <h1>AMDphreak</h1>
   <p>Systems architect and full-stack developer building an ecosystem of composable tools focused on developer experience (DevX) and high-performance, cross-platform computing.</p>
   <p>
     <a href="https://ryanjohnson.dev">Website</a>
-    ·
+    &middot;
     <a href="https://docs.devcentr.org">Dev-Centr docs</a>
-    ·
+    &middot;
     <a href="https://github.com/AMDphreak/AMDphreak/issues">Report Bug</a>
   </p>
+
 </div>
+
 
 <details>
   <summary>Table of Contents</summary>
@@ -160,12 +160,3 @@ Site: [https://ryanjohnson.dev](https://ryanjohnson.dev)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/AMDphreak/AMDphreak.svg?style=for-the-badge
-[contributors-url]: https://github.com/AMDphreak/AMDphreak/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AMDphreak/AMDphreak.svg?style=for-the-badge
-[forks-url]: https://github.com/AMDphreak/AMDphreak/network/members
-[stars-shield]: https://img.shields.io/github/stars/AMDphreak/AMDphreak.svg?style=for-the-badge
-[stars-url]: https://github.com/AMDphreak/AMDphreak/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AMDphreak/AMDphreak.svg?style=for-the-badge
-[issues-url]: https://github.com/AMDphreak/AMDphreak/issues
