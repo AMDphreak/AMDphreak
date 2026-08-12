@@ -115,4 +115,13 @@ Programming is math. **Lisp** and **Haskell** are the usual on-ramps if you want
 
 ---
 
+## GitHub Snapshot
+
+![GitHub Stats](./profile/stats.svg)
+![Top languages](./profile/top-langs.svg)
+
+![GitHub Streak](./profile/streak.svg)
+
+---
+
 Hey, babe—I fork on the first date.
