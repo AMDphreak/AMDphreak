@@ -76,6 +76,15 @@ Historical:
 
 ---
 
+## Philosophy
+
+Culture that sharpens taste more than tutorials do. Longer set on [Inspirations](https://ryanjohnson.dev/inspirations).
+
+- [cat-v.org](https://cat-v.org/) — Unix / Plan 9 archive and the [harmful.cat-v.org](https://harmful.cat-v.org/) essays
+- [xkcd](https://xkcd.com/) — Randall Munroe; romance, sarcasm, math, and language ([What If?](https://what-if.xkcd.com/))
+
+---
+
 ## Language suggestions
 
 These are teaching suggestions, not taste. They cull the ecosystem to a few essential ways of thinking. Long form: [Language recommendations](https://docs.devcentr.org/general-knowledge/explanation/languages/index.html).
