@@ -1,7 +1,7 @@
 <div align="center">
   <h1>AMDphreak</h1>
   <p>
-    Software developer. I care about <strong>clear docs</strong>, <strong>typed systems</strong>, and <strong>browser-heavy</strong> apps (maps, dashboards, long-lived sessions) where performance is as much architecture as hot loops.
+    Systems architect and full-stack developer building an ecosystem of composable tools focused on developer experience (DevX) and high-performance, cross-platform computing.
   </p>
   <p>
     <a href="https://ryanjohnson.dev">Website</a>
