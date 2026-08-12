@@ -60,7 +60,7 @@ GitHub orgs I own:
 - [nonprofit-resources](https://github.com/nonprofit-resources)
 - [openshellorg](https://github.com/openshellorg)
 
-Historical (kept so they are not “rediscovered” as missing):
+Historical:
 
 - [memphis-cs-projects](https://github.com/memphis-cs-projects)
 
@@ -74,7 +74,7 @@ Historical (kept so they are not “rediscovered” as missing):
 
 ---
 
-## Language suggestions (short)
+## Language suggestions
 
 These are teaching suggestions, not taste. They cull the ecosystem to a few essential ways of thinking. Long form: [Language recommendations](https://docs.devcentr.org/general-knowledge/explanation/languages/index.html).
 
