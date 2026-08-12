@@ -50,7 +50,6 @@ GitHub orgs I own:
 
 - [antora-supplemental](https://github.com/antora-supplemental)
 - [connectome-fs](https://github.com/connectome-fs)
-- [Cook-Systems-Team-Blue-Feb-2021-Ryan](https://github.com/Cook-Systems-Team-Blue-Feb-2021-Ryan)
 - [dev-centr](https://github.com/dev-centr)
 - [dlang-supplemental](https://github.com/dlang-supplemental)
 - [FoodTruckNerdz](https://github.com/FoodTruckNerdz)
@@ -62,6 +61,7 @@ GitHub orgs I own:
 
 Historical:
 
+- [Cook-Systems-Team-Blue-Feb-2021-Ryan](https://github.com/Cook-Systems-Team-Blue-Feb-2021-Ryan)
 - [memphis-cs-projects](https://github.com/memphis-cs-projects)
 
 ---
