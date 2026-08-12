@@ -35,10 +35,12 @@ Architectural decisions are catalogued in [Dev-Centr docs](https://docs.devcentr
 
 ## AI Coding Desk
 
-[![Cursor](https://img.shields.io/badge/Cursor-Composer%202.5-000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com)
+[![Cursor](https://img.shields.io/badge/Cursor-Auto-000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com)
+[![Grok](https://img.shields.io/badge/Grok-4.5-000?style=flat-square&logo=x&logoColor=white)](https://cursor.com/blog/grok-4-5)
 
-- **Cursor + Composer 2.5** — primary IDE and agent for day-to-day repo work
-- **Cursor cloud agents** — async and background agent runs when work can leave the editor
+- **Cursor Auto** — daily driver. It picks well.
+- **Grok 4.5** — when I want that model on purpose
+- **Cursor cloud agents** — async and background runs when work can leave the editor
 - **Hermes** — on the radar to try; no active use case yet
 - **T3 Code** — on the radar to try; would run through Cursor CLI if it sticks
 
