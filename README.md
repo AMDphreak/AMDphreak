@@ -74,31 +74,32 @@ Historical (kept so they are not “rediscovered” as missing):
 
 ---
 
-## Language preferences (short)
+## Language suggestions (short)
 
-Opinions are defaults, not absolutes—they keep my own projects consistent.
+These are teaching suggestions, not taste. They cull the ecosystem to a few essential ways of thinking. Long form: [Language recommendations](https://docs.devcentr.org/general-knowledge/explanation/languages/index.html).
 
 <details>
 <summary>Systems programming</summary>
 
 - Prefer **D** (or **Rust**) over **C** for new systems work: modules and safer patterns beat C’s global namespace and header friction.
-- [C vs D (Gemini share)](https://gemini.google.com/share/bdba47f19258)
+- [C and D](https://docs.devcentr.org/general-knowledge/explanation/languages/c-and-d.html)
 
 </details>
 
 <details>
 <summary>Scientific and numerical computing</summary>
 
-- Prefer **Julia** over **Python** for serious numerical / ML work when you control the stack; [Julia and D vs Java (Gemini share)](https://gemini.google.com/share/b0964e893d07).
-- I avoid leaning on **Java** for that space when the bloat and fragmentation in the ecosystem outweighs the gain.
+- Prefer **Julia** over **Python** for serious numerical / ML work when you control the stack.
+- [Julia, D, and Java](https://docs.devcentr.org/general-knowledge/explanation/languages/julia-d-and-java.html)
 
 </details>
 
 <details>
 <summary>Application and systems scripting</summary>
 
-- Prefer **D** over **C++** for application code; [C++ vs D (Gemini share)](https://gemini.google.com/share/51f07fad7499). [C++ rant (YouTube)](https://youtu.be/7fGB-hjc2Gc?si=6qM7eUBS5t8fV-Np) — same thesis, louder volume.
-- For scripting-shaped tools that still talk to the OS, **D** is my default over **Python** when I want readable syntax without dragging a huge runtime (see scientific section for why Python is a weak default for me).
+- Prefer **D** over **C++** for application code. [C++ rant (YouTube)](https://youtu.be/7fGB-hjc2Gc?si=6qM7eUBS5t8fV-Np) — same thesis, louder volume.
+- For scripting-shaped tools that still talk to the OS, **D** over **Python** when you want readable syntax without a huge runtime.
+- [C++ and D](https://docs.devcentr.org/general-knowledge/explanation/languages/cpp-and-d.html) · [D and Rust](https://docs.devcentr.org/general-knowledge/explanation/languages/d-and-rust.html)
 
 </details>
 
