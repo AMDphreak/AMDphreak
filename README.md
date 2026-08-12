@@ -15,8 +15,11 @@
     <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"></a>
     <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
     <a href="https://react.dev"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"></a>
+    <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
     <a href="https://www.solidjs.com"><img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=flat-square&logo=solid&logoColor=white" alt="SolidJS"></a>
+    <a href="https://start.solidjs.com"><img src="https://img.shields.io/badge/SolidStart-2C4F7C?style=flat-square&logo=solid&logoColor=white" alt="SolidStart"></a>
     <a href="https://tauri.app"><img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri"></a>
+    <a href="https://www.electronjs.org"><img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"></a>
     <a href="https://julialang.org"><img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white" alt="Julia"></a>
     <a href="https://antora.org"><img src="https://img.shields.io/badge/Antora-docs-E40046?style=flat-square&logo=asciidoctor&logoColor=white" alt="Antora"></a>
   </p>
