@@ -109,4 +109,4 @@ Programming is math. **Lisp** and **Haskell** are the usual on-ramps if you want
 
 ---
 
-Hey, babe—I fork on the first date and commit to `main`.
+Hey, babe—I fork on the first date.
