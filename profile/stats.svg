@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ryan Johnson&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 2922, Total PRs: 162, Total Issues: 401, Contributed to (last year): 293</desc>
+        <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 2915, Total PRs: 162, Total Issues: 401, Contributed to (last year): 293</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 108.85184585258753;
+        stroke-dashoffset: 108.85209465509242;
       }
     }
   
