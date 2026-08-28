@@ -70,7 +70,7 @@ Historical:
 
 ## Curated learning
 
-Lists that would crowd this README live in **[curated-learning.md](./curated-learning.md)** (AI watching, classic roadmaps). Shared AI blurbs/credits: [Dev-Centr curated watching](https://docs.devcentr.org/general-knowledge/explanation/ai/curated-watching.html).
+Stable personal index: **[curated-learning.md](./curated-learning.md)** (videos + classic lists). Dev-Centr holds shared blurbs and may split into topical pages—bookmark the personal file for “my picks,” not only the org index.
 
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
