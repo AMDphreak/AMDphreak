@@ -70,9 +70,12 @@ Historical:
 
 ## Curated learning
 
+Lists that would crowd this README live in **[curated-learning.md](./curated-learning.md)** (AI watching, classic roadmaps). Shared AI blurbs/credits: [Dev-Centr curated watching](https://docs.devcentr.org/general-knowledge/explanation/ai/curated-watching.html).
+
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+- **Watch:** [Geometric reasoning (Sophontic / Michels)](https://www.youtube.com/watch?v=4S8I22ybG2c) — see [curated-learning.md](./curated-learning.md)
 
 ---
 
