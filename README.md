@@ -6,7 +6,7 @@
   <p>
     <a href="https://ryanjohnson.dev">Website</a>
     &middot;
-    <a href="https://docs.devcentr.org/home/index.html">Dev-Centr docs</a>
+    <a href="https://docs.devcentr.org/home/">Dev-Centr docs</a>
     &middot;
     <a href="https://ryanjohnson.dev/inspirations">Inspirations</a>
   </p>
@@ -31,7 +31,7 @@
 - High-performance software from long-lived web UIs to cross-platform native code
 - Software reliability as a product concern—not an afterthought
 
-Architectural decisions are catalogued in [Dev-Centr docs](https://docs.devcentr.org/home/index.html).
+Architectural decisions are catalogued in [Dev-Centr docs](https://docs.devcentr.org/home/).
 
 ## AI Coding Desk
 
@@ -90,13 +90,13 @@ Culture that sharpens taste more than tutorials do. Longer set on [Inspirations]
 
 ## Language suggestions
 
-These are teaching suggestions, not taste. They cull the ecosystem to a few essential ways of thinking. Long form: [Language recommendations](https://docs.devcentr.org/general-knowledge/explanation/languages/index.html).
+These are teaching suggestions, not taste. They cull the ecosystem to a few essential ways of thinking. Long form: [Language recommendations](https://docs.devcentr.org/general-knowledge/explanation/languages/).
 
 <details>
 <summary>Systems programming</summary>
 
 - Prefer **D** (or **Rust**) over **C** for new systems work: modules and safer patterns beat C’s global namespace and header friction.
-- [C and D](https://docs.devcentr.org/general-knowledge/explanation/languages/c-and-d.html)
+- [C and D](https://docs.devcentr.org/general-knowledge/explanation/languages/c-and-d/)
 
 </details>
 
@@ -104,7 +104,7 @@ These are teaching suggestions, not taste. They cull the ecosystem to a few esse
 <summary>Scientific and numerical computing</summary>
 
 - Prefer **Julia** over **Python** for serious numerical / ML work when you control the stack.
-- [Julia, D, and Java](https://docs.devcentr.org/general-knowledge/explanation/languages/julia-d-and-java.html)
+- [Julia, D, and Java](https://docs.devcentr.org/general-knowledge/explanation/languages/julia-d-and-java/)
 
 </details>
 
@@ -113,7 +113,7 @@ These are teaching suggestions, not taste. They cull the ecosystem to a few esse
 
 - Prefer **D** over **C++** for application code. [C++ rant (YouTube)](https://youtu.be/7fGB-hjc2Gc?si=6qM7eUBS5t8fV-Np) — same thesis, louder volume.
 - For scripting-shaped tools that still talk to the OS, **D** over **Python** when you want readable syntax without a huge runtime.
-- [C++ and D](https://docs.devcentr.org/general-knowledge/explanation/languages/cpp-and-d.html) · [D and Rust](https://docs.devcentr.org/general-knowledge/explanation/languages/d-and-rust.html)
+- [C++ and D](https://docs.devcentr.org/general-knowledge/explanation/languages/cpp-and-d/) · [D and Rust](https://docs.devcentr.org/general-knowledge/explanation/languages/d-and-rust/)
 
 </details>
 

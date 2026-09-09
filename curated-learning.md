@@ -10,7 +10,7 @@ Personal index kept **off** the profile README so videos and meta-resources can 
 
   [![Video thumbnail](https://i.ytimg.com/vi/4S8I22ybG2c/hqdefault.jpg)](https://www.youtube.com/watch?v=4S8I22ybG2c)
 
-  - Dev-Centr (blurb / credits; may later move under a topical page): [Curated watching (AI)](https://docs.devcentr.org/general-knowledge/explanation/ai/curated-watching.html)
+  - Dev-Centr (blurb / credits; may later move under a topical page): [Curated watching (AI)](https://docs.devcentr.org/general-knowledge/explanation/ai/curated-watching/)
   - Archival copy (personal Drive): [MP4 backup](https://drive.google.com/file/d/1mv4HW10Gb7qbtsts3-I0NYaFT1KTuvsR/view)
   - Project: [sophontic.ai](https://sophontic.ai/)
 
