@@ -17,10 +17,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2.0.2
+        uses: stats-organization/github-readme-stats-action@v2.1.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&hide_border=true
@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2.0.2
+        uses: stats-organization/github-readme-stats-action@v2.1.0
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=radical&hide_border=true&hide=html,markdown
@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak card
-        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        uses: DenverCoder1/github-readme-streak-stats@v1.8.0
         with:
           options: user=${{ github.repository_owner }}&theme=radical&hide_border=true&disable_animations=true
           path: profile/streak.svg
